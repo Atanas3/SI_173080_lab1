@@ -1,0 +1,6 @@
+C:\Users\173080\SI_173080_lab1>git log
+commit 015305b3bd6fdad2a0c6f3a3cd83528e494abf75 (HEAD -> logs, origin/master, master)
+Author: unknown <Atanas.Martinovski@students.finki.ukim.mk>
+Date:   Thu Apr 4 10:23:25 2019 +0200
+
+    Initial commit
